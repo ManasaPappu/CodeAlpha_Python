@@ -1,0 +1,4 @@
+Test run: It is working
+Stock: MSFT (Microsoft)
+Number of shares: 4
+Total investment: $1360
